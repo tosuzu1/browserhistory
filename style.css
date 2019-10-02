@@ -1,0 +1,17 @@
+.left {
+  float: left;
+  width :300px;
+}
+.center {
+  float: left;
+  width :300px;
+}
+.right {
+  float: left;
+  width :300px;
+}
+li {
+  display: inline;
+  text-align: center;
+  padding: 50px;
+}
